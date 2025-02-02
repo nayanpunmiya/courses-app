@@ -11,21 +11,7 @@
 - Payments: [Stripe](https://stripe.com/)
 - Analytics: [PostHog](https://posthog.com/)
 
-## Prerequisites
 
-You will need accounts for the following services.
-
-They all have free plans that you can use to get started.
-
-- Create a [Cursor](https://www.cursor.com/) account
-- Create a [GitHub](https://github.com/) account
-- Create a [Supabase](https://supabase.com/) account
-- Create a [Clerk](https://clerk.com/) account
-- Create a [Stripe](https://stripe.com/) account
-- Create a [PostHog](https://posthog.com/) account
-- Create a [Vercel](https://vercel.com/) account
-
-You will likely not need paid plans unless you are building a business.
 
 ## Environment Variables
 
